@@ -1,4 +1,4 @@
-# 👋 Gregorius Valery Hermawan P
+# 👋 Hello!
 
 **Portfolio Repository**  
 Welcome to my digital space! This repository showcases my journey, projects, and skills. Let's connect and collaborate!
