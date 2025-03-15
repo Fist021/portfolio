@@ -9,7 +9,7 @@ Welcome to my digital space! This repository showcases my journey, projects, and
 
 | **Category**         | **Details**                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
-| **Name**              | Gregorius Valery Hermawan P                                                |
+| **Name**              | Gregorius Valery Hermawan Prasetyo                                                |
 | **Education**         | SMA Kolese Gonzaga Jakarta                                                 |
 | **Hobbies & Interests**| 🏀 Sports, 💻 Front-End Development, 📊 Data Visualization, 🔒 CyberSec     |
 | **Life Skills**       | Decisive Decision-Making • Empathetic Communication • Team Collaboration   |
@@ -20,9 +20,9 @@ Welcome to my digital space! This repository showcases my journey, projects, and
 
 Explore my technical and creative work:
 
-1. **[Project 1 Title](link)** - Short description (e.g., "Responsive landing page built with React").  
-2. **[Project 2 Title](link)** - Short description (e.g., "Data dashboard using Python and Tableau").  
-3. **[Project 3 Title](link)** - Short description (e.g., "Cybersecurity vulnerability analysis tool").  
+1. **[Project 1 Title](link)** - Short description 
+2. **[Project 2 Title](link)** - Short description 
+3. **[Project 3 Title](link)** - Short description  
 4. **[Project 4 Title](link)** - *(Add your project highlights here)*  
 5. **[Project 5 Title](link)** - *(Add your project highlights here)*  
 6. **[Project 6 Title](link)** - *(Add your project highlights here)*  
@@ -36,9 +36,9 @@ Explore my technical and creative work:
 
 I’m always open to discussions about tech, sports, or creative ideas!  
 
-- ✉️ **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourusername)  
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)  
+- ✉️ **Email**: [gregoriusprasetyo102@gmail.com](mailto:gregoriusprasetyo102@gmail.com)  
+- 💼 **Instagram**: [gregoprasetyo](https://www.instagram.com/gregoprasetyo/)  
+- 🐙 **GitHub**: [@Fist01](https://github.com/Fist021)  
 - 🛠️ **Portfolio Website**: *(Optional: Add a link if you have one!)*  
 
 ---
