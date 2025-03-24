@@ -1,0 +1,93 @@
+* {
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+/* fonts */
+.yatra-one-regular {
+    font-family: "Yatra One", system-ui;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  
+.lexend-Bold {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  .red-hat-display-Normal {
+    font-family: "Red Hat Display", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+/* backgrounds */
+#bg-1{
+    background-image: linear-gradient(to bottom, #f6f0f0, #fdebe8, #ffe6dc, #ffe3cf, #fee2c1, #f8dfba, #f2ddb3, #ebdbad, #e6d6aa, #e0d1a8, #dbcca5, #d5c7a3);
+    background-size: cover;
+    height: 2%;
+    width: auto;
+    
+}
+.bg1{
+    
+    width: 5%;
+    height: 5%;
+    background-repeat: repeat;
+}
+
+.The-Title {
+    display:flex;
+    flex-direction: column;
+    padding: 1.5rem;
+    
+}
+
+.The-Title h1{
+    font-size: 37px;
+    text-align: center;
+
+    
+}
+
+.The-Title img{
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+
+}
+.The-Container {
+    margin-top: 1rem;
+    margin-right:  8rem;
+    margin-bottom: 1rem;
+    margin-left:8rem;
+
+}
+
+.The-Paragraph {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-size: 20px;
+    word-spacing:6px;
+    text-align: justify;
+    line-height: 1.8rem;
+
+}
+
+.Sub-Titles {
+    font-size:20px ;
+    word-spacing: 4px;
+    letter-spacing: 2px;
+}
